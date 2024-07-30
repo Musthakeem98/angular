@@ -1,4 +1,4 @@
-# Property Binding in Angular
+# Property Binding in Angular 
 
 Property binding in Angular enables you to set values for properties of HTML elements, Angular components and more.
 
